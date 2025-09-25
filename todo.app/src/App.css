@@ -37,11 +37,12 @@
   padding: 10px;
   border: none;
   border-radius: 5px;
-  background-color: rgb(0, 255, 221);
+  background-color: gold;
   font-weight: 700;
   cursor: pointer;
 
 }
+
 
 .todo-icons {
   font-size: 25px;
